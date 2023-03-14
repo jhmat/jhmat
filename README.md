@@ -31,5 +31,3 @@
 </div>
 </br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d3fa3&height=120&section=footer"/>
-
-![snake gif](https://github.com/jhmat/jhmat/blob/output/github-contribution-grid-snake.svg)
